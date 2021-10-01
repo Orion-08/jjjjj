@@ -13,6 +13,11 @@
         "id":3,
         "movie":"War",
         "genre":"Action"
+    },
+{
+        "id":5,
+        "movie":"Planet of Apes",
+        "genre":"Action"
     }
 
 ]
