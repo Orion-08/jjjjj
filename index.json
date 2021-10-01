@@ -8,6 +8,11 @@
         "id":2,
         "movie":"jkj",
         "genre":"Action"
+    },
+     {
+        "id":4,
+        "movie":"Shershah",
+        "genre":"Action"
     }
 
 ]
