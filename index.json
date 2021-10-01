@@ -9,6 +9,7 @@
         "movie":"jkj",
         "genre":"Action"
     },
+
 {
         "id":3,
         "movie":"War",
@@ -17,6 +18,11 @@
 {
         "id":5,
         "movie":"Planet of Apes",
+
+     {
+        "id":4,
+        "movie":"Shershah",
+
         "genre":"Action"
     }
 
